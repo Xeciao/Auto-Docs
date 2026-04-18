@@ -20,7 +20,7 @@ pip install python-docx
 # Tecnologías
 - Python 3
 - python-docx
-
+  
 # Vista Previa del Documento
 <img width="567" height="736" alt="image" src="https://github.com/user-attachments/assets/a3a21dd9-0167-43bc-9ec1-22edc71ae60f" />
 
