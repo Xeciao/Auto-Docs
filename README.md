@@ -12,7 +12,7 @@ El documento brinda una estructura genérica, tal como:
 pip install python-docx
 
 # Uso
-1. Coloca tu imagen de encabezado como "encabezado.jpg" dentro del directorio "AutoWord"
+1. Coloca tu imagen de encabezado como "encabezado.jpg" dentro del directorio base "AutoWord".
 2. Edita los datos en el script (estudiantes, profesor, asignatura, sección, páginas siguientes)
 3. Ejecuta el script.
 4. El documento "Documento.docx" se ha generado en el directorio base "AutoWord".
