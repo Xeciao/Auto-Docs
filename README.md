@@ -24,6 +24,12 @@ pip install python-docx
 # PREVIEW
 <img width="650" height="827" alt="image" src="https://github.com/user-attachments/assets/b6884f37-5520-4941-92e5-35d3e7b859dc" />
 
-<img width="992" height="633" alt="image" src="https://github.com/user-attachments/assets/20c8edd5-3572-4ee1-8c64-0091afbe71d5" />
+<img width="566" height="732" alt="image" src="https://github.com/user-attachments/assets/17d6c8fe-8857-47f4-ad17-ce7de25284a0" />
 
-<img width="1497" height="633" alt="image" src="https://github.com/user-attachments/assets/4b317a35-3f85-45c1-8f5c-a047fe7f9c32" />
+<img width="564" height="736" alt="image" src="https://github.com/user-attachments/assets/af33c7ac-d44d-41ac-8064-32dead4b957e" />
+
+<img width="566" height="734" alt="image" src="https://github.com/user-attachments/assets/7e04d503-befd-4ba8-94f4-5ae38d0dffdb" />
+
+<img width="565" height="733" alt="image" src="https://github.com/user-attachments/assets/f00dea9c-e389-4855-9575-ec91311d395d" />
+
+<img width="567" height="731" alt="image" src="https://github.com/user-attachments/assets/bafe0590-d3a2-441c-8802-a41b0489d4c0" />
