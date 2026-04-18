@@ -21,8 +21,8 @@ pip install python-docx
 - Python 3
 - python-docx
 
-# PREVIEW
-<img width="650" height="827" alt="image" src="https://github.com/user-attachments/assets/b6884f37-5520-4941-92e5-35d3e7b859dc" />
+# Vista Previa del Documento
+<img width="567" height="736" alt="image" src="https://github.com/user-attachments/assets/a3a21dd9-0167-43bc-9ec1-22edc71ae60f" />
 
 <img width="566" height="732" alt="image" src="https://github.com/user-attachments/assets/17d6c8fe-8857-47f4-ad17-ce7de25284a0" />
 
